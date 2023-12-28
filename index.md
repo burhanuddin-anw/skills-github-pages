@@ -1,9 +1,12 @@
+
 ---
 title: Welcome to my blog
 author: ShaikBurhanuddin
+---
+
 # Embracing Markdown for Better Content Creation
 
-As a content creator, finding the right tools for writing is crucial. 
+As a content creator, finding the right tools for writing is crucial. Recently, I discovered the power of Markdown, and it has revolutionized the way I approach content creation. Markdown, with its simple syntax and versatility, provides a seamless writing experience that translates well to various platforms.
 
 ## Why Markdown?
 
@@ -30,6 +33,3 @@ Getting started with Markdown is a breeze. Here are a few basics to get you goin
 
 1. Number 1
 2. Number 2
-
----
-
